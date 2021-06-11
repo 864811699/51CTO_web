@@ -1,0 +1,28 @@
+1.623036620347214e+09	debug	Trying to hit GET request for http://www.google.com
+1.6230366413704722e+09	error	Error fetching URL http://www.google.com : Error = Get "http://www.google.com": dial tcp 75.126.124.162:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+1.6230366413704722e+09	debug	Trying to hit GET request for http://www.baidu.com
+1.623036641390347e+09	info	Success! statusCode = 200 OK for URL http://www.baidu.com
+1.6230427089947817e+09	debug	Trying to hit GET request for http://www.google.com
+1.6230427300177836e+09	error	Error fetching URL http://www.google.com : Error = Get "http://www.google.com": dial tcp 208.43.237.140:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+1.6230427300177836e+09	debug	Trying to hit GET request for http://www.baidu.com
+1.623042730052332e+09	info	Success! statusCode = 200 OK for URL http://www.baidu.com
+2021-06-07T13:14:32.880+0800	DEBUG	Trying to hit GET request for http://www.google.com
+2021-06-07T13:14:53.912+0800	ERROR	Error fetching URL http://www.google.com : Error = Get "http://www.google.com": dial tcp 157.240.2.36:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021-06-07T13:14:53.912+0800	DEBUG	Trying to hit GET request for http://www.baidu.com
+2021-06-07T13:14:53.933+0800	INFO	Success! statusCode = 200 OK for URL http://www.baidu.com
+2021-06-07T13:15:28.827+0800	DEBUG	zap/SugaredLogger.go:42	Trying to hit GET request for http://www.google.com
+2021-06-07T13:15:49.854+0800	ERROR	zap/SugaredLogger.go:45	Error fetching URL http://www.google.com : Error = Get "http://www.google.com": dial tcp 157.240.2.36:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021-06-07T13:15:49.854+0800	DEBUG	zap/SugaredLogger.go:42	Trying to hit GET request for http://www.baidu.com
+2021-06-07T13:15:49.874+0800	INFO	zap/SugaredLogger.go:47	Success! statusCode = 200 OK for URL http://www.baidu.com
+2021-06-07T13:35:18.514+0800	DEBUG	zap/SugaredLogger.go:48	Trying to hit GET request for http://www.google.com
+2021-06-07T13:35:39.549+0800	ERROR	zap/SugaredLogger.go:51	Error fetching URL http://www.google.com : Error = Get "http://www.google.com": dial tcp 118.184.78.78:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021-06-07T13:35:39.549+0800	DEBUG	zap/SugaredLogger.go:48	Trying to hit GET request for http://www.baidu.com
+2021-06-07T13:35:39.568+0800	INFO	zap/SugaredLogger.go:53	Success! statusCode = 200 OK for URL http://www.baidu.com
+2021-06-07T13:40:12.534+0800	DEBUG	zap/SugaredLogger.go:54	Trying to hit GET request for http://www.google.com
+2021-06-07T13:40:33.568+0800	ERROR	zap/SugaredLogger.go:57	Error fetching URL http://www.google.com : Error = Get "http://www.google.com": dial tcp 199.96.62.21:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021-06-07T13:40:33.568+0800	DEBUG	zap/SugaredLogger.go:54	Trying to hit GET request for http://www.baidu.com
+2021-06-07T13:40:33.591+0800	INFO	zap/SugaredLogger.go:59	Success! statusCode = 200 OK for URL http://www.baidu.com
+2021-06-07T13:42:57.998+0800	DEBUG	zap/SugaredLogger.go:55	Trying to hit GET request for http://www.google.com
+2021-06-07T13:43:19.032+0800	ERROR	zap/SugaredLogger.go:58	Error fetching URL http://www.google.com : Error = Get "http://www.google.com": dial tcp 31.13.75.5:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021-06-07T13:43:19.033+0800	DEBUG	zap/SugaredLogger.go:55	Trying to hit GET request for http://www.baidu.com
+2021-06-07T13:43:19.064+0800	INFO	zap/SugaredLogger.go:60	Success! statusCode = 200 OK for URL http://www.baidu.com
